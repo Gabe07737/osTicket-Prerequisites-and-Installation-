@@ -71,7 +71,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 <h3 align="center">Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.</h3>
 <p>
-  <img src="https://i.imgur.com/pmwpPEu.png"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/35c7fd05-68ee-46bf-b41e-a714e4e13d35"height="75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">Install Rewrite Module</h3>
@@ -79,7 +79,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 <h3 align="center">Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.</h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/28cf2dd0-d39e-45f8-a01b-61aec6657228"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/9da5e091-6d3c-4f53-83f6-24f2a0a39573"height="75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">CREATE DIRECTORY C:\PHP</h3>
@@ -88,7 +88,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center"> Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Files You Need to Download</a>, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
 </h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/18746085-a3cf-4f1f-b0d5-5cd73f969319"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/ef71b49e-5bb9-456b-9edf-b586ae0b321d"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/ef71b49e-5bb9-456b-9edf-b586ae0b321d"height="75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">VC_REDIST DOWNLOAD</h3>
@@ -96,16 +97,19 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.
 </h3>
 <p>
-  <img src="https://i.imgur.com/Gx8ryBV.png"75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/b9cf40e7-45fa-4e6d-802a-d7a805071de3"75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">DOWNLOAD MySQL </h3>
 <h3 align="center"> Download and install MySQL, Agree with any terms and agreements up until you get to the password portion. Here you can create a username and password for the database that you'll be using to store the Ticket Information used in osTicket. 
 </h3>
 <p>
-  <img src="https://i.imgur.com/IVpLg40.png"75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/6028ca14-61bf-41d0-8e3b-75bda25438c9"75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4f6db40f-1ec5-4723-8513-43b9da29507d"75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/005ac52b-48ab-414f-8c6d-eb7da50ab043"75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/3a88b52d-594d-4d11-a601-d0d3929f9f4b"75%" width="100%"/>
 <br/>
-  <img src="https://i.imgur.com/zdhWXNx.png" height="75%" width="100%" />
+  <img src="https://github.com/user-attachments/assets/0a5df7f6-72da-4c6a-ad5c-a9f4d820b106" height="75%" width="100%" />
 </p>
 <br/>
 <h3 align="center">Install osTicket v1.15.8</h3>
