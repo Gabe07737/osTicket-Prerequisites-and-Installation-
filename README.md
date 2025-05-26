@@ -223,12 +223,11 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	New Permissions -> Everyone -> All:
 </p>
 <p>
-	<img src="https://i.imgur.com/YzsMXNX.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/50536df0-30b1-4110-85f2-d1e7d9580b05" height="75%" width="100%" />
 </p>
 <p>
 	<img src="https://i.imgur.com/k7x9yGR.png" height="75%" width="100%" />
 </p>
-<br />
 <br />
 <h3 align="center">Continue Setting up osTicket in the browser (click Continue)</h3>
 <br />
