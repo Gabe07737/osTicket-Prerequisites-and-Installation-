@@ -94,7 +94,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <br />
 <h3 align="center">VC_REDIST DOWNLOAD</h3>
 <br />
-<h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.
+<h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.</h3>
 </h3>
 <p>
   <img src="https://github.com/user-attachments/assets/b9cf40e7-45fa-4e6d-802a-d7a805071de3"height="75%" width="100%"/>
@@ -112,7 +112,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
   <img src="https://github.com/user-attachments/assets/0a5df7f6-72da-4c6a-ad5c-a9f4d820b106" height="75%" width="100%"/>
 </p>
 <br />
-<h3 align="center">Open IIS as Admin
+<h3 align="center">Open IIS as Admin</h3>
 <br />
 <p>
  <img src="https://github.com/user-attachments/assets/67d6ce5e-ab33-44f9-98f4-c4e7f8f80d7f"height="75%" width="100%"/>
@@ -134,7 +134,6 @@ This is an easy guide to installing a help desk ticketing system called osTicket
  <img src="https://github.com/user-attachments/assets/a6b7f87e-746b-4d21-8b15-25e21674601e"height="75%" width="100%"/>
 </p>
 <br />
-<h3 align="center"> 
 <h3 align="center">Install osTicket v1.15.8</h3>
 <br />
 <p>
@@ -153,19 +152,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center">Reload IIS (Open IIS, Stop and Start the server)</h3>
+<h3 align="center">Reload IIS(Open IIS, Stop and Start the server)as shown before. </h3>
 <br />
 <p>
-	Go to sites -> Default -> osTicket:
+	When done go on the right and click “Browse *:80”:
 </p>
 <p>
-	<img src="https://i.imgur.com/QeWNlG3.png" height="75%" width="100%" />
-</p>
-<p>
-	On the right, click “Browse *:80”:
-</p>
-<p>
-	<img src="https://i.imgur.com/3iXhNbi.png" height="75%" width="100%"/>
+	<img src="https://github.com/user-attachments/assets/d73dcc35-bb02-4bf5-8531-ce04da15fe17" height="75%" width="100%"/>
 </p>
 <br />
 <br />
@@ -178,7 +171,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Double-click PHP Manager:
 </p>
 <p>
-	<img src="https://i.imgur.com/LFKo5Hs.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/18bc79c1-ed51-43f1-a32f-c27c4cd3f6f7" height="75%" width="100%" />
 </p>
 <p>
 	Click “Enable or disable an extension”.
@@ -193,7 +186,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Enable: php_opcache.dll:
 </p>
 <p>
-	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
+	<img src="https://github.com/user-attachments/assets/68a9927e-4229-4031-b902-d2c543992e0b" height="75%" width="100%"/>
 </p>
 <br />
 <br />
