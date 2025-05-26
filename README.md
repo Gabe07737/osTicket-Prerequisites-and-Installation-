@@ -152,8 +152,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center">Reload IIS(Open IIS, Stop and Start the server)as shown before. </h3>
-<br />
+<p>
+	Reload IIS(Open IIS, Stop and Start the server)as shown before. </h3>
+</p>
 <p>
 	When done go on the right and click “Browse *:80”:
 </p>
@@ -281,22 +282,6 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>Congratulations, hopefully it is installed with no errors!</hp>
 <p>
 	<img src="https://i.imgur.com/J5omRoE.png" height="75%" width="100%" />
-</p>
-<br />
-<br />
-<h3 align="center">Clean up</h3>
-<br />
-<p>
-	Delete: C:\inetpub\wwwroot\osTicket\setup:
-</p>
-<p>
-	<img src="https://i.imgur.com/eg0ZPG3.png" height="75%" width="100%" />
-</p>
-<p>
-	Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
-</p>
-<p>
-	<img src="https://i.imgur.com/n6k46XL.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
