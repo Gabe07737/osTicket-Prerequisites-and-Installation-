@@ -73,7 +73,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
   <img src="https://github.com/user-attachments/assets/35c7fd05-68ee-46bf-b41e-a714e4e13d35"height="75%" width="100%"/>
 </p>
-<br/>
+<br />
 <h3 align="center">Install Rewrite Module</h3>
 <br />
 <p>
@@ -81,7 +81,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
   <img src="https://github.com/user-attachments/assets/9da5e091-6d3c-4f53-83f6-24f2a0a39573"height="75%" width="100%"/>
 </p>
-<br/>
+<br />
 <h3 align="center">CREATE DIRECTORY C:\PHP</h3>
 <br />
 <p>
@@ -91,27 +91,50 @@ This is an easy guide to installing a help desk ticketing system called osTicket
   <img src="https://github.com/user-attachments/assets/ef71b49e-5bb9-456b-9edf-b586ae0b321d"height="75%" width="100%"/>
   <img src="https://github.com/user-attachments/assets/ef71b49e-5bb9-456b-9edf-b586ae0b321d"height="75%" width="100%"/>
 </p>
-<br/>
+<br />
 <h3 align="center">VC_REDIST DOWNLOAD</h3>
-<br/>
+<br />
 <h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.
 </h3>
 <p>
-  <img src="https://github.com/user-attachments/assets/b9cf40e7-45fa-4e6d-802a-d7a805071de3"75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/b9cf40e7-45fa-4e6d-802a-d7a805071de3"height="75%" width="100%"/>
 </p>
-<br/>
+<br />
 <h3 align="center">DOWNLOAD MySQL </h3>
 <h3 align="center"> Download and install MySQL, Agree with any terms and agreements up until you get to the password portion. Here you can create a username and password for the database that you'll be using to store the Ticket Information used in osTicket. 
-</h3>
+<br />
 <p>
-  <img src="https://github.com/user-attachments/assets/6028ca14-61bf-41d0-8e3b-75bda25438c9"75%" width="100%"/>
-  <img src="https://github.com/user-attachments/assets/4f6db40f-1ec5-4723-8513-43b9da29507d"75%" width="100%"/>
-  <img src="https://github.com/user-attachments/assets/005ac52b-48ab-414f-8c6d-eb7da50ab043"75%" width="100%"/>
-  <img src="https://github.com/user-attachments/assets/3a88b52d-594d-4d11-a601-d0d3929f9f4b"75%" width="100%"/>
-<br/>
-  <img src="https://github.com/user-attachments/assets/0a5df7f6-72da-4c6a-ad5c-a9f4d820b106" height="75%" width="100%" />
+  <img src="https://github.com/user-attachments/assets/6028ca14-61bf-41d0-8e3b-75bda25438c9"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4f6db40f-1ec5-4723-8513-43b9da29507d"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/005ac52b-48ab-414f-8c6d-eb7da50ab043"height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/3a88b52d-594d-4d11-a601-d0d3929f9f4b"height="75%" width="100%"/>
+<br />
+  <img src="https://github.com/user-attachments/assets/0a5df7f6-72da-4c6a-ad5c-a9f4d820b106" height="75%" width="100%"/>
 </p>
+<br />
+<h3 align="center">Open IIS as Admin
+<br />
+<p>
+ <img src="https://github.com/user-attachments/assets/67d6ce5e-ab33-44f9-98f4-c4e7f8f80d7f"height="75%" width="100%"/>
+</p> 
+<br />
+<h3 align="center">Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 <br/>
+<p>
+ <img src="https://github.com/user-attachments/assets/70b2dbf8-9469-458d-a093-bebfab5fdb14"height="75%" width="100%"/>
+ <img src="https://github.com/user-attachments/assets/f532b964-089a-4215-82cb-af3a3821eb3f"height="75%" width="100%"/> 
+ <img src="https://github.com/user-attachments/assets/41455960-0fb2-4e5c-9279-4857d3fd6394"height="75%" width="100%"/>
+ <img src="https://github.com/user-attachments/assets/0a8d2fa6-0e14-4346-a419-461179240359"height="75%" width="100%"/>
+</p>
+<br />
+<h3 align="center"> Reload IIS (Open IIS, Stop and Start the server)
+<br /> 
+<p>
+ <img src="https://github.com/user-attachments/assets/63e8c462-ec46-4ae8-a662-c51e64775ee8"height="75%" width="100%"/>
+ <img src="https://github.com/user-attachments/assets/a6b7f87e-746b-4d21-8b15-25e21674601e"height="75%" width="100%"/>
+</p>
+<br />
+<h3 align="center"> 
 <h3 align="center">Install osTicket v1.15.8</h3>
 <br />
 <p>
