@@ -158,7 +158,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	When done go on the right and click “Browse *:80”:
 </p>
 <p>
-	<img src="https://github.com/user-attachments/assets/d73dcc35-bb02-4bf5-8531-ce04da15fe17" height="75%" width="100%"/>
+	<img src="https://github.com/user-attachments/assets/c1298e3e-467f-4270-a691-6a14681f19c1" height="75%" width="100%"/>
 </p>
 <br />
 <br />
@@ -206,7 +206,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 </p>
 <p>
-	<img src="https://i.imgur.com/TEw71SD.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/2816468f-f13d-484b-8734-2cb180897bbd" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -216,7 +216,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Disable inheritance -> Remove All:
 </p>
 <p>
-	<img src="https://i.imgur.com/1QtRWEF.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/2748780f-13bd-4fc2-85bd-3eba4a782c52" height="75%" width="100%" />
 </p>
 <p>
 	New Permissions -> Everyone -> All:
