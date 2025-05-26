@@ -226,7 +226,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	<img src="https://github.com/user-attachments/assets/50536df0-30b1-4110-85f2-d1e7d9580b05" height="75%" width="100%" />
 </p>
 <p>
-	<img src="https://i.imgur.com/k7x9yGR.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/80422b00-109b-4923-b66c-6e239c4b8379"height="75%" width="100%" />
 </p>
 <br />
 <h3 align="center">Continue Setting up osTicket in the browser (click Continue)</h3>
@@ -238,15 +238,15 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Default email (receives email from customers):
 </p>
 <p>
-	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/f259e08d-2498-4469-acb6-7f9c21999042" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/1ab1a36c-90af-4b8d-b3e9-a8b6bf4d20d2" height="75%" width="100%" />
 </p>
 <br />
 <br />
 <h3 align="center">Download and Install HeidiSQL</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/AEg0b2P.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/7f980259-ac59-4f8e-97bb-3d543b986425" height="75%" width="100%" />
 </p>
 <p>
 	Create a new session, root/Password1.
@@ -255,13 +255,14 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Connect to the session:
 </p>
 <p>
-	<img src="https://i.imgur.com/9t51ApR.png" height="75%" width="100%" "/>
+	<img src="https://github.com/user-attachments/assets/74071101-f451-4251-9743-640af120ee86" height="75%" width="100%" "/>
 </p>
 <p>
 	Create a database called “osTicket”:
 </p>
 <p>
-	<img src="https://i.imgur.com/vXzmQqg.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/5094205c-bc84-4416-8f62-1ebc39f08b25" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/5e653744-7042-4ef0-8aa5-63efcf50a736" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -275,19 +276,19 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	MySQL Password: Password1:
 </p>
 <p>
-	<img src="https://i.imgur.com/akDyber.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/6ce4aa56-2a88-4851-9841-edd95c795e8c" height="75%" width="100%" />
 </p>
 <p>Click “Install Now!”</p>
 <p>Congratulations, hopefully it is installed with no errors!</hp>
 <p>
-	<img src="https://i.imgur.com/J5omRoE.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/48f500ce-1609-44c6-b9fa-f3463c396472" height="75%" width="100%" />
 </p>
 <br />
 <br />
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/8wvWH0H.jpg" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/a1867dd7-3626-46b2-b9de-33967d6109dc" height="75%" width="100%" />
 </p>
 <br />
 <br />
