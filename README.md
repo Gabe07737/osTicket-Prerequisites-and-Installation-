@@ -142,13 +142,16 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 	Extract and copy the “upload” folder INTO c:\inetpub\wwwroot:
 </p>
-	<img src="https://i.imgur.com/0MUJLMU.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/1h9goM8.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/1dc58c5d-4fb0-478f-ba04-083e6e1845c7" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/5604f0d3-39c4-4d92-a004-47c34faa2f22" height="75%" width="100%" />
+
 <p>
 	Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 </p>
 <p>
-	<img src="https://i.imgur.com/pDikkgq.png" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/a6b9bf62-3759-4f1f-accc-d28458009eb2" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/fe81a132-fcf2-4707-903d-4da489bb8362" height="75%" width="100%" />
+	<img src="https://github.com/user-attachments/assets/a6ed90cb-3330-4edd-9142-53aba53409e1" height="75%" width="100%" />
 </p>
 <br />
 <br />
